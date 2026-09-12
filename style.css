@@ -1,0 +1,31 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+.hero {
+  min-height: 75vh;
+  display: flex;
+  align-items: center;
+}
+
+.page-section {
+  min-height: 70vh;
+  padding: 60px 40px;
+}
+
+.w3-bar {
+  overflow-x: auto;
+  white-space: nowrap;
+}
+
+.w3-bar a {
+  text-decoration: none;
+}
+
+h1 {
+  letter-spacing: 1px;
+}
+
+p {
+  line-height: 1.8;
+}
